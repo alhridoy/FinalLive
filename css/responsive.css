@@ -1,0 +1,112 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+   
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+
+
+}
+/*mobile-layout*/
+@media only screen and (max-width: 767px) { 
+ 
+    .topsearch>i {
+    display: block;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.navbar-container .input-group input.form-control {
+    width: 150%;
+}
+
+.topsearch .input-group{
+  width: 174px;
+    bottom: 16px;
+    left: -54px;
+
+}
+.input-group-btn {
+    
+    left: 44px;
+}
+.navbar-brand {
+    margin-bottom: 0;
+ 
+    position: relative;
+    top: 2px;
+    left: 8px;
+}
+.wrapper .video {
+    width: 100%;
+    max-width: 426px;
+
+}
+.wrapper .video .controls {
+    height: 40px;
+    width: 73%;
+ 
+}
+.wrapper {
+  
+    margin-bottom: 24px;
+}
+.content-wrapper h1 {
+    line-height: 25px;
+    font-size: 20px;
+    min-height: 20px;
+
+}
+#count {
+    bottom: 14px;
+    font-size: 15px;
+}
+#top-level-button {
+
+    bottom: 18px;
+    left: 190px;
+}
+.subscribe-btn {
+   
+    right: 0px;
+    top: 8px;
+}
+.top-row {
+    margin-bottom: -20px;
+}
+.video-details {
+    padding: 0 15px 0 0;
+    margin-left: 65px;
+}
+.topsearch {
+    
+    right: 104px;
+    top: 4px;
+}
+
+
+.account {
+    /* margin-top: 15px; */
+    position: relative;
+    z-index: 9999;
+    top: -50px;
+    display: inline-flex;
+    left: 222px;
+    flex-direction: row;
+}
+.h-video-row {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.v-desc a {
+    margin-bottom: 0px;
+}
+}
+
+
+
